@@ -1,0 +1,18 @@
+[submodule "vim/ctrlp.vim"]
+	path = vim/ctrlp.vim
+	url = https://github.com/kien/ctrlp.vim.git
+[submodule "vim/gist-vim"]
+	path = vim/gist-vim
+	url = https://github.com/mattn/gist-vim.git
+[submodule "vim/threesome"]
+	path = vim/threesome
+	url = https://github.com/sjl/threesome.vim.git
+[submodule "vim/vim-colors-solarized"]
+	path = vim/vim-colors-solarized
+	url = https://github.com/altercation/vim-colors-solarized.git
+[submodule "vim/vimerl"]
+	path = vim/vimerl
+	url = https://github.com/oscarh/vimerl.git
+[submodule "vim/vim-powerline"]
+	path = vim/vim-powerline
+	url = https://github.com/Lokaltog/vim-powerline.git
